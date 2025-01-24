@@ -1,4 +1,4 @@
-name: audioplayers
+name: audio_players
 description: A package for audio playback.
 version: 0.20.1
 environment:
